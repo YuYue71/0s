@@ -1,7 +1,8 @@
 # 臨時使用庫/共享雲端硬碟
-`2026/04/14`
-### 這下面可以寫一些注意事項,不需要了自行刪除
 ###### [Markdown語法格式使用大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)
+###### [網頁版VSCode](https://ominous-waffle-g455rrx5qjqv3vxq4.github.dev/)/或者按鍵盤上 `.` 開啟
+### 這下面可以寫一些注意事項,不需要了自行刪除
+`2026/04/14`
 ## 範例:
 - #### `YourName`:
 - `2026/04/28`
@@ -11,6 +12,6 @@
     - `事項3`
 ## 該區以下為主要區域:
 - #### `YuYue_Sama`:
-  - [test](https://ominous-waffle-g455rrx5qjqv3vxq4.github.dev/)
+  - 
 - #### `YanZe`:
   - 
