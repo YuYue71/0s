@@ -254,6 +254,7 @@ decompression = de + compress + ion = 解除 + 壓縮 + 名詞 = 解壓縮
 | `wise` | 方向／方式 |
 
 ---
+```javascript
 // 萬用公式：
 analyzeWord("unreadable")
 // prefix: un = 否定
