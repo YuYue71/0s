@@ -6,8 +6,6 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant"><p>Chinese (Traditional) Language Pack for Visual Studio Code</p></a>
   </details>
 
-  <details>
-
 - 快速擷取Code圖片
   - [`CodeSnap`](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - 萬用開發工具:
