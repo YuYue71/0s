@@ -7,10 +7,9 @@
   </details>
 
   <details>
-  <summary>快速擷取Code圖片</summary>
-  <a href="https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap">CodeSnap</a> 
-  </details>
 
+- 快速擷取Code圖片
+  - [`CodeSnap`](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - 萬用開發工具:
   - [`DevTool+`](https://marketplace.visualstudio.com/items?itemName=Fuzionix.devtool-plus)
 - 文件樹生產器:
