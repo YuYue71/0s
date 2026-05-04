@@ -1,5 +1,5 @@
 <details>
-<summary><h3>好用的小工具類</h3></summary>
+<summary>好用的小工具類</summary>
 
 - 繁體中文翻譯:
   - [`Chinese (Traditional) Language Pack for Visual Studio Code`](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)
@@ -23,8 +23,10 @@
   - [`Rainbow CSV`](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 </details>
 
-## 主要類:
-- ### Python:
+<details>
+<summary>主要類</summary>
+
+  <summary>Python:</summary>
   - 主要:
     - [`Pylance`](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
     - [`Python`](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
