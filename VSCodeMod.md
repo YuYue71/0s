@@ -25,21 +25,29 @@
 
 <details>
 <summary>主要類</summary>
+  <details>
+  <summary>Python</summary>
+    <details>
+    <summary>主要</summary>
 
-  <summary>Python:</summary>
-  - 主要:
     - [`Pylance`](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
     - [`Python`](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     - [`Python Debugger`](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
     - [`Python Environments`](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs)
     - [`Python Extended`](https://marketplace.visualstudio.com/items?itemName=tushortz.python-extended-snippets)
-  - 工具:
+    </details>
+    <details>
+    <summary>工具</summary>
+
     - Python 自動縮排工具:
       - [`Python Indent`](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
     - Python 字串生產器:
       - [`autoDocstring - Python Docstring Generator`](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+    </details>
+  </details>
 - ### C#:
   - 主要:
     - [``]()
   - 工具:
     - [``]()
+</details>
