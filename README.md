@@ -17,9 +17,6 @@
     - `事項3`
 ## 該區以下為主要區域:
 - #### `YuYue_Sama`:
-  - `2026/05/01`
-    - 在稀爛的英文程度,把這張表背起來總會有出路
-    - [英文字根表](https://github.com/YuYue71/0s/blob/main/EnglishRootWords.md)
   - `2026/05/03`
     - [`http.md`](https://github.com/YuYue71/0s/blob/main/http.md) 裡面放了一些好用工具的網址
   - `2026/05/04`
