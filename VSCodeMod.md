@@ -1,7 +1,9 @@
 <details>
 <summary><h2>好用的小工具類</h2></summary>
-  <summary>繁體中文翻譯</summary>
-  - [`Chinese (Traditional) Language Pack for Visual Studio Code`](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)
+  <details>
+  <summary><h6>繁體中文翻譯</h6></summary>
+  <a href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant">Chinese (Traditional) Language Pack for Visual Studio Code</a>
+  </details>
 - 快速擷取Code圖片:
   - [`CodeSnap`](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - 萬用開發工具:
