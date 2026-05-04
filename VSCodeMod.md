@@ -1,5 +1,6 @@
-## *好用的小工具類
-- 繁體中文翻譯:
+<details>
+<summary>## 好用的小工具類</summary>
+- 繁體中文翻譯
   - [`Chinese (Traditional) Language Pack for Visual Studio Code`](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)
 - 快速擷取Code圖片:
   - [`CodeSnap`](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
@@ -19,7 +20,7 @@
   - [`Prettier - Code formatter`](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - Code主題美化:
   - [`Rainbow CSV`](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
-
+</details>
 
 ## 主要類:
 - ### Python:
