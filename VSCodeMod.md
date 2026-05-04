@@ -25,10 +25,8 @@
 
 <details>
 <summary>主要類</summary>
-
   <details>
   <summary>Python</summary>
-
     <details>
     <summary>主要</summary>
 
@@ -47,7 +45,5 @@
 - Python 字串生產器:
   - [`autoDocstring - Python Docstring Generator`](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
     </details>
-
   </details>
-
 </details>
