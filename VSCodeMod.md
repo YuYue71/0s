@@ -1,12 +1,9 @@
 <details>
 <summary><h3>好用的小工具類</h3></summary>
-
-  <details>
-  <summary>繁體中文翻譯</summary>
-  <a href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant"><p>Chinese (Traditional) Language Pack for Visual Studio Code</p></a>
-  </details>
-
-- 快速擷取Code圖片
+</details>
+- 繁體中文翻譯:
+  - [`Chinese (Traditional) Language Pack for Visual Studio Code`](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)
+- 快速擷取Code圖片:
   - [`CodeSnap`](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - 萬用開發工具:
   - [`DevTool+`](https://marketplace.visualstudio.com/items?itemName=Fuzionix.devtool-plus)
@@ -24,7 +21,6 @@
   - [`Prettier - Code formatter`](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - Code主題美化:
   - [`Rainbow CSV`](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
-</details>
 
 ## 主要類:
 - ### Python:
