@@ -10,6 +10,10 @@
 ### 這下面可以寫一些注意事項,不需要了自行刪除
 `2026/04/14`
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
+</div>
+
 ## 範例:
 
 - #### `YourName`:
@@ -19,6 +23,9 @@
       - `事項2`
       - `事項3`
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
+</div>
 
 ## 該區以下為主要區域:
 
@@ -30,12 +37,12 @@
   - `2026/05/05`
     - [`拿來餵給AI生教學動畫網頁的模板`](https://github.com/YuYue71/0s/tree/main/%E7%B6%B2%E9%A0%81%E6%A8%A1%E6%9D%BF)
 
-
+---
 
 - #### `YanZe`:
   - 
 
-
+---
 
 - #### `Kami`:
   - 
