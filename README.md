@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F700FF&vCenter=true&center=true&width=600&lines=Neon+Effect+Text;RGB+Flowing+Vibe&multiLine=true&background=00000000" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=YuYue%20Sama&fontSize=40&animation=fadeIn&fontAlignY=50" />
 </div>
 
 <div align="center">
