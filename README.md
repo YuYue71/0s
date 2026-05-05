@@ -23,7 +23,7 @@
   - `2026/05/04`
     - [`VSCode的Mod總匯`](https://github.com/YuYue71/0s/blob/main/VSCodeMod.md)
   - `2026/05/05`
-    - [`拿來餵給AI生教學動畫網頁的模板`]()
+    - [`拿來餵給AI生教學動畫網頁的模板`](https://github.com/YuYue71/0s/tree/main/%E7%B6%B2%E9%A0%81%E6%A8%A1%E6%9D%BF)
 - #### `YanZe`:
   - 
 - #### `Kami`:
