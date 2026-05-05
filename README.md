@@ -10,7 +10,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
 </div>
 
-- ## 目前共用名單
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%E7%9B%AE%E5%89%8D%E5%85%B1%E7%94%A8%E5%90%8D%E5%96%AE&fontSize=40&animation=fadeIn&fontAlignY=50" />
+</div>
+
   |編號|暱稱|ID|加入日期|
   |:--:|:--:|:--:|:--:|
   |`00`|`幽月`|`YuYue71`|`2026.04.14`|
