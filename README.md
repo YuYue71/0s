@@ -17,6 +17,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%E7%9B%AE%E5%89%8D%E5%85%B1%E7%94%A8%E5%90%8D%E5%96%AE&fontSize=60&animation=fadeIn&fontAlignY=50" />
 </div>
 
+> 點擊暱稱可跳轉至對應區域
+
 |編號|暱稱|ID|加入日期|
 |:--:|:--:|:--:|:--:|
 |`00`|[`幽月`](#yuyue_sama)|`YuYue71`|`2026.04.14`|
