@@ -723,4 +723,433 @@
                     <p>配合主色調的補充色彩，用於強調積極或成功狀態</p>
                 </div>
                 <div class="feature-card">
-                    <i data-lucide="circle" style="color: var(--accent
+                    <i data-lucide="circle" style="color: var(--accent-blue);"></i>
+                    <h3>背景色</h3>
+                    <p>低飽和度、高明度的色彩，為內容提供舒適的呈現空間</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="circle" style="color: var(--text-dim);"></i>
+                    <h3>中性色</h3>
+                    <p>黑、白、灰等色彩，提供視覺層次與可讀性</p>
+                </div>
+            </div>
+
+            <div class="comparison-block">
+                <div class="comparison-item before">
+                    <div class="comparison-title">
+                        <i data-lucide="x-circle"></i> 常見錯誤
+                    </div>
+                    <ul class="comparison-content">
+                        <li>✗ 使用過多相似的顏色</li>
+                        <li>✗ 忽視色彩的無障礙設計</li>
+                        <li>✗ 色彩與內容語義不符</li>
+                        <li>✗ 對比度不足導致閱讀困難</li>
+                    </ul>
+                </div>
+                <div class="comparison-item after">
+                    <div class="comparison-title">
+                        <i data-lucide="check-circle"></i> 最佳實踐
+                    </div>
+                    <ul class="comparison-content">
+                        <li>✓ 建立 3-5 色的色彩調色板</li>
+                        <li>✓ 遵循 WCAG 無障礙對比度標準</li>
+                        <li>✓ 色彩使用與功能狀態對應</li>
+                        <li>✓ 考慮色盲用戶的體驗</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 第三章：排版與字體 ===== -->
+        <section class="section">
+            <h2 class="section-title">
+                <i data-lucide="type"></i>
+                第三章：排版與字體系統
+            </h2>
+
+            <p style="color: var(--text-secondary); margin-bottom: 30px;">
+                好的排版是用戶舒適閱讀的基礎。通過建立清晰的字體層次，可以引導用戶注意力並改善整體可讀性。
+            </p>
+
+            <div class="flow-container">
+                <!-- 問題 -->
+                <div class="layer-box problem-layer">
+                    <div class="layer-title">
+                        <i data-lucide="alert-triangle"></i> 排版的挑戰
+                    </div>
+                    <div class="content-node highlighted">
+                        <i data-lucide="eye-off"></i>
+                        <h4>視覺混亂</h4>
+                        <p>字體層級不清，用戶無法快速定位信息</p>
+                    </div>
+                    <div class="content-node highlighted">
+                        <i data-lucide="minimize-2"></i>
+                        <h4>可讀性差</h4>
+                        <p>行距不當導致視覺疲勞</p>
+                    </div>
+                    <div class="content-node highlighted">
+                        <i data-lucide="smartphone"></i>
+                        <h4>響應式困難</h4>
+                        <p>在不同屏幕尺寸下排版失效</p>
+                    </div>
+                </div>
+
+                <!-- 箭頭 -->
+                <div class="flow-spacer">
+                    <svg class="arrow-svg">
+                        <path d="M0,20 L70,20" class="flow-line" />
+                        <polygon points="70,15 80,20 70,25" class="flow-arrow" />
+                    </svg>
+                </div>
+
+                <!-- 解決方案 -->
+                <div class="layer-box solution-layer">
+                    <div class="layer-title">
+                        <i data-lucide="check-circle"></i> 最佳解決方案
+                    </div>
+                    <div class="content-node">
+                        <i data-lucide="layers"></i>
+                        <h4>建立字體層級</h4>
+                        <p>H1-H6 與 Body、Small 等標準尺寸</p>
+                    </div>
+                    <div class="content-node">
+                        <i data-lucide="maximize-2"></i>
+                        <h4>優化行距和字距</h4>
+                        <p>1.5-1.8 倍行高提升舒適度</p>
+                    </div>
+                    <div class="content-node">
+                        <i data-lucide="zap"></i>
+                        <h4>使用響應式單位</h4>
+                        <p>rem 與 em 實現跨設備適配</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <i data-lucide="heading-1" style="color: var(--accent-red);"></i>
+                    <h3>標題字體</h3>
+                    <p>選擇具有個性的字體，增加視覺吸引力</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="type" style="color: var(--accent-blue);"></i>
+                    <h3>正文字體</h3>
+                    <p>優先選擇易讀的字體，確保長文本可閱讀</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="code" style="color: var(--accent-green);"></i>
+                    <h3>等寬字體</h3>
+                    <p>用於代碼、數據等需要精確對齐的內容</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 第四章：間距與佈局 ===== -->
+        <section class="section">
+            <h2 class="section-title">
+                <i data-lucide="grid-3x3"></i>
+                第四章：空間設計與網格系統
+            </h2>
+
+            <p style="color: var(--text-secondary); margin-bottom: 30px;">
+                正確的間距和網格系統能創造秩序感，提升用戶體驗的一致性和專業度。
+            </p>
+
+            <div class="comparison-block">
+                <div class="comparison-item before">
+                    <div class="comparison-title">
+                        <i data-lucide="box"></i> 無序設計
+                    </div>
+                    <ul class="comparison-content">
+                        <li>✗ 間距隨意，缺乏規律</li>
+                        <li>✗ 元素對齊不一致</li>
+                        <li>✗ 視覺很難構建層級</li>
+                        <li>✗ 難以維護和擴展</li>
+                    </ul>
+                </div>
+                <div class="comparison-item after">
+                    <div class="comparison-title">
+                        <i data-lucide="grid-3x3"></i> 系統化設計
+                    </div>
+                    <ul class="comparison-content">
+                        <li>✓ 採用 8px 或 4px 的基礎單位</li>
+                        <li>✓ 所有元素按網格對齊</li>
+                        <li>✓ 間距層級清晰（XS, S, M, L, XL）</li>
+                        <li>✓ 易於團隊協作和維護</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <i data-lucide="square" style="color: var(--accent-yellow);"></i>
+                    <h3>8px 網格系統</h3>
+                    <p>基礎單位為 8px，所有元素按倍數排列</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="maximize" style="color: var(--accent-red);"></i>
+                    <h3>邊距管理</h3>
+                    <p>外邊距與內邊距的標準化定義</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="layers" style="color: var(--accent-blue);"></i>
+                    <h3>視覺層次</h3>
+                    <p>通過空間創造元素間的優先級關係</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="responsive" style="color: var(--accent-green);"></i>
+                    <h3>響應式適配</h3>
+                    <p>不同屏幕尺寸下的自適應間距方案</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 第五章：組件設計 ===== -->
+        <section class="section">
+            <h2 class="section-title">
+                <i data-lucide="layers-3"></i>
+                第五章：可複用組件系統
+            </h2>
+
+            <p style="color: var(--text-secondary); margin-bottom: 30px;">
+                組件化設計是現代設計系統的核心。通過可複用的組件提高效率，確保一致的用戶體驗。
+            </p>
+
+            <div class="flow-container">
+                <!-- 問題 -->
+                <div class="layer-box problem-layer">
+                    <div class="layer-title">
+                        <i data-lucide="alert-triangle"></i> 分散設計的問題
+                    </div>
+                    <div class="content-node highlighted">
+                        <i data-lucide="copy"></i>
+                        <h4>重複工作</h4>
+                        <p>相同組件在多處設計和編碼</p>
+                    </div>
+                    <div class="content-node highlighted">
+                        <i data-lucide="git-branch"></i>
+                        <h4>版本分歧</h4>
+                        <p>組件風格不一致，維護困難</p>
+                    </div>
+                </div>
+
+                <!-- 箭頭 -->
+                <div class="flow-spacer">
+                    <svg class="arrow-svg">
+                        <path d="M0,20 L70,20" class="flow-line" />
+                        <polygon points="70,15 80,20 70,25" class="flow-arrow" />
+                    </svg>
+                </div>
+
+                <!-- 解決方案 -->
+                <div class="layer-box solution-layer">
+                    <div class="layer-title">
+                        <i data-lucide="check-circle"></i> 組件系統
+                    </div>
+                    <div class="content-node">
+                        <i data-lucide="package"></i>
+                        <h4>統一組件庫</h4>
+                        <p>集中管理所有可複用元素</p>
+                    </div>
+                    <div class="content-node">
+                        <i data-lucide="link"></i>
+                        <h4>一致性保障</h4>
+                        <p>組件更新自動同步到全部文件</p>
+                    </div>
+                </div>
+
+                <!-- 箭頭 -->
+                <div class="flow-spacer">
+                    <svg class="arrow-svg">
+                        <path d="M0,20 L70,20" class="flow-line green" />
+                        <polygon points="70,15 80,20 70,25" class="flow-arrow green" />
+                    </svg>
+                </div>
+
+                <!-- 輸出 -->
+                <div class="io-node">
+                    <i data-lucide="check" style="color: var(--accent-green);"></i>
+                    <span class="io-node-label">設計系統</span>
+                </div>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <i data-lucide="button" style="color: var(--accent-red);"></i>
+                    <h3>按鈕組件</h3>
+                    <p>Primary, Secondary, Danger 等多種狀態</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="type" style="color: var(--accent-blue);"></i>
+                    <h3>文本輸入</h3>
+                    <p>支持多種狀態與驗證提示</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="card" style="color: var(--accent-green);"></i>
+                    <h3>卡片組件</h3>
+                    <p>靈活的容器組件，支持自定義佈局</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="navigation" style="color: var(--accent-yellow);"></i>
+                    <h3>導航模式</h3>
+                    <p>Tab, Menu, Breadcrumb 等導航方案</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 第六章：交互與動畫 ===== -->
+        <section class="section">
+            <h2 class="section-title">
+                <i data-lucide="sparkles"></i>
+                第六章：交互動畫設計
+            </h2>
+
+            <p style="color: var(--text-secondary); margin-bottom: 30px;">
+                精心設計的動畫能增強用戶體驗，傳達反饋並引導用戶操作流程。
+            </p>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <i data-lucide="mouse-pointer" style="color: var(--accent-red);"></i>
+                    <h3>懸停反饋</h3>
+                    <p>顏色變化、陰影加深提示可交互狀態</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="zap" style="color: var(--accent-yellow);"></i>
+                    <h3>點擊反應</h3>
+                    <p>瞬間的視覺反應提升交互感</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="arrow-right" style="color: var(--accent-green);"></i>
+                    <h3>過渡動畫</h3>
+                    <p>頁面切換與元素出現的流暢銜接</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="alert-circle" style="color: var(--accent-blue);"></i>
+                    <h3>狀態提示</h3>
+                    <p>加載、成功、失敗等狀態的視覺反饋</p>
+                </div>
+            </div>
+
+            <div class="comparison-block">
+                <div class="comparison-item before">
+                    <div class="comparison-title">
+                        <i data-lucide="x-circle"></i> 常見誤區
+                    </div>
+                    <ul class="comparison-content">
+                        <li>✗ 過度動畫，分散注意力</li>
+                        <li>✗ 動畫速度不合理</li>
+                        <li>✗ 沒有考慮無障礙用戶</li>
+                        <li>✗ 頻繁出現相同動畫</li>
+                    </ul>
+                </div>
+                <div class="comparison-item after">
+                    <div class="comparison-title">
+                        <i data-lucide="check-circle"></i> 最佳實踐
+                    </div>
+                    <ul class="comparison-content">
+                        <li>✓ 動畫持續時間 200-500ms</li>
+                        <li>✓ 使用緩動函數優化過渡</li>
+                        <li>✓ 支持 prefers-reduced-motion</li>
+                        <li>✓ 動畫增強而非取代功能</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 第七章：無障礙設計 ===== -->
+        <section class="section">
+            <h2 class="section-title">
+                <i data-lucide="accessibility"></i>
+                第七章：無障礙與包容性設計
+            </h2>
+
+            <p style="color: var(--text-secondary); margin-bottom: 30px;">
+                無障礙設計不是附加功能，而是現代設計的必要標準。它確保所有用戶都能平等地使用產品。
+            </p>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <i data-lucide="eye" style="color: var(--accent-red);"></i>
+                    <h3>視覺無障礙</h3>
+                    <p>足夠的色彩對比度，支持高對比度模式</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="volume" style="color: var(--accent-blue);"></i>
+                    <h3>聽覺無障礙</h3>
+                    <p>提供字幕、轉錄和文字替代</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="hand" style="color: var(--accent-green);"></i>
+                    <h3>運動無障礙</h3>
+                    <p>支持鍵盤導航，足夠大的點擊區域</p>
+                </div>
+                <div class="feature-card">
+                    <i data-lucide="brain" style="color: var(--accent-yellow);"></i>
+                    <h3>認知無障礙</h3>
+                    <p>清晰的語言，簡單的流程和結構</p>
+                </div>
+            </div>
+
+            <div class="comparison-block">
+                <div class="comparison-item before">
+                    <div class="comparison-title">
+                        <i data-lucide="x-circle"></i> 無障礙的障礙
+                    </div>
+                    <ul class="comparison-content">
+                        <li>✗ 色彩對比度低於 4.5:1</li>
+                        <li>✗ 忘記為圖片添加 alt 文本</li>
+                        <li>✗ 無法僅用鍵盤操作</li>
+                        <li>✗ 忽視屏幕閱讀器相容性</li>
+                    </ul>
+                </div>
+                <div class="comparison-item after">
+                    <div class="comparison-title">
+                        <i data-lucide="check-circle"></i> WCAG 標準
+                    </div>
+                    <ul class="comparison-content">
+                        <li>✓ 遵守 WCAG 2.1 AA 標準</li>
+                        <li>✓ 完整的語義 HTML 標記</li>
+                        <li>✓ 支持鍵盤和屏幕閱讀器</li>
+                        <li>✓ 提供多種形式的內容</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- ===== 頁腳 ===== -->
+    <footer class="footer">
+        <p><strong>Web 設計基礎教學</strong> — 平面 UI 設計完全指南</p>
+        <p>通過系統化的方法論和最佳實踐，幫助設計師創造更好的用戶體驗</p>
+        <p style="margin-top: 20px; font-size: 0.85rem;">© 2026 Design Education Platform | 致力於現代設計教育</p>
+    </footer>
+
+    <script>
+        // 初始化 Lucide 圖標
+        lucide.createIcons();
+
+        // 為卡片添加滾動動畫效果
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.animation = 'fadeInUp 0.6s ease-out forwards';
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        // 觀察所有卡片和特性卡
+        document.querySelectorAll('.layer-box, .feature-card, .comparison-item').forEach(el => {
+            el.style.opacity = '0';
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>
