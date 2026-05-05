@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=YuYue%20Sama&fontSize=40&animation=fadeIn&fontAlignY=50" />
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
   <br/><br/>
 </div>
