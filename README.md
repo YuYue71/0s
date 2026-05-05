@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=32&duration=3000&pause=1000&color=E0E0E0&center=true&width=600&lines=%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0;%E8%87%A8%E6%99%82%E4%BD%BF%E7%94%A8%E5%BA%AB+%7C+%E9%9B%B2%E7%AB%AF%E5%85%B1%E4%BA%AB%E5%BA%AB;Welcome+to+Temporary+Library+%7C+Cloud+Storage+Vault" alt="Typing animation" />
 
-  <br/><br/>
+  <br/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
 </div>
