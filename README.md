@@ -22,6 +22,8 @@
     - [`http.md`](https://github.com/YuYue71/0s/blob/main/http.md) 裡面放了一些好用工具的網址
   - `2026/05/04`
     - [`VSCode的Mod總匯`](https://github.com/YuYue71/0s/blob/main/VSCodeMod.md)
+  - `2026/05/05`
+    - [`拿來餵給AI生教學動畫網頁的模板`]()
 - #### `YanZe`:
   - 
 - #### `Kami`:
