@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F700FF&vCenter=true&center=true&width=600&lines=Neon+Effect+Text;RGB+Flowing+Vibe&multiLine=true&background=00000000" alt="Typing animation" />
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1000"/>
   <br/><br/>
 </div>
