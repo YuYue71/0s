@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%E7%9B%AE%E5%89%8D%E5%85%B1%E7%94%A8%E5%90%8D%E5%96%AE&fontSize=40&animation=fadeIn&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%E7%9B%AE%E5%89%8D%E5%85%B1%E7%94%A8%E5%90%8D%E5%96%AE&fontSize=80&animation=fadeIn&fontAlignY=50" />
 </div>
 
 |編號|暱稱|ID|加入日期|
