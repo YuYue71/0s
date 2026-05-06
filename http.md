@@ -6,3 +6,4 @@
 - [網頁動畫 Animejs](https://animejs.com/)
 - [AI集會所](https://chathub.gg/zh-TW)
 - [判斷你的電腦能不能夠跑本地AI](https://www.canirun.ai/)
+- [HTML數學曲線載入生成器](https://paidax01.github.io/math-curve-loaders/)
