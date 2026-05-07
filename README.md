@@ -18,7 +18,7 @@
 
 ### 造訪次數 Number of visits
 
-  <img src="https://count.getloli.com/@YuYue71?theme=moebooru" alt="Profile Views" />
+  <img src="https://count.getloli.com/@YuYue71-0s?theme=moebooru" alt="Profile Views" />
 
   <br/>
 
