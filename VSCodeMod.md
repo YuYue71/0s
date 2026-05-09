@@ -73,7 +73,7 @@
     </details>
   </details>
 
-      <details>
+  <details>
   <summary>CSS</summary>
     <details>
     <summary>主要</summary>
@@ -93,7 +93,7 @@
     </details>
   </details>
 
-      <details>
+  <details>
   <summary>C#</summary>
     <details>
     <summary>主要</summary>
