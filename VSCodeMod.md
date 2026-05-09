@@ -21,6 +21,8 @@
   - [`Prettier - Code formatter`](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - Code主題美化:
   - [`Rainbow CSV`](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- Discord顯示狀態:
+  - [`Discord Presence`](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 </details>
 
 <details>
