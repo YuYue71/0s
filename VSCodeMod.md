@@ -23,6 +23,8 @@
   - [`Rainbow CSV`](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - Discord顯示狀態:
   - [`Discord Presence`](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+- VSCode背景圖自訂:
+  - [`background`](https://marketplace.visualstudio.com/items?itemName=shalldie.background)
 </details>
 
 <details>
