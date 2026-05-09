@@ -10,3 +10,8 @@
 - [SVG素材](https://svgdoodles.com/)
 - [圖像優化AI](https://www.krea.ai/)
 - [CSS網格生成器](https://cssgridgenerator.io/)
+- [CreatePC 3D](https://www.buildcores.com/builds/5L-epdiyC)
+- [一些MIDI音檔](https://drive.google.com/drive/folders/1IbM67amQHYXjATVSi2LjBKkiIYK_Ac-O)
+- [日常工具快速下載](https://ninite.com/)
+- [龐大的知識庫](https://quickref.me/)
+- [全能維修教學小工具](https://zh.ifixit.com/)
