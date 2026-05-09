@@ -25,6 +25,12 @@
   - [`Discord Presence`](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 - VSCode背景圖自訂:
   - [`background`](https://marketplace.visualstudio.com/items?itemName=shalldie.background)
+- 快速抓ERROR:
+  - [`Error Lens`](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- 巢狀對齊工具:
+  - [`indent-rainbow`](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- 前端標籤同步修改:
+  - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 </details>
 
 <details>
@@ -48,6 +54,57 @@
   - [`Python Indent`](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
 - Python 字串生產器:
   - [`autoDocstring - Python Docstring Generator`](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+    </details>
+  </details>
+
+    <details>
+  <summary>HTML</summary>
+    <details>
+    <summary>主要</summary>
+
+
+    </details>
+    
+    <details>
+    <summary>工具</summary>
+
+- 響應式網頁開發及時同步多平台畫面:
+  - [Responsive Viewer](https://marketplace.visualstudio.com/items?itemName=parthmanhas.responsive-viewer)
+    </details>
+  </details>
+
+      <details>
+  <summary>CSS</summary>
+    <details>
+    <summary>主要</summary>
+
+
+    </details>
+    
+    <details>
+    <summary>工具</summary>
+
+- CSS必備工具箱:
+  - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- CSS跳轉HTML工具:
+  - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- 開啟本地同步頁面伺服器工具:
+  - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    </details>
+  </details>
+
+      <details>
+  <summary>C#</summary>
+    <details>
+    <summary>主要</summary>
+
+
+    </details>
+    
+    <details>
+    <summary>工具</summary>
+
+      
     </details>
   </details>
 </details>
