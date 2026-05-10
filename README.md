@@ -46,6 +46,7 @@
 
 ###### [Markdown語法格式使用大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)
 ###### [網頁版VSCode](https://ominous-waffle-g455rrx5qjqv3vxq4.github.dev/)/或者按鍵盤上 `.` 開啟
+###### [Google Drive](https://drive.google.com/drive/folders/1sv_yWKOY14MXFHHxmd0kT4mC-oEapDIy?usp=sharing)/可自行放置大檔案盡量不超過`1TB`
 ### 這下面可以寫一些注意事項,不需要了自行刪除
 `2026/04/14`
 
@@ -90,7 +91,8 @@
 <div id="kami"></div>
 
 - #### `Kami`:
-  - 
+  - `2026/05/10`
+    - [README.md](https://github.com/YuYue71/0s/blob/main/README.md) 裡面放了共享雲端
 
 ---
 
