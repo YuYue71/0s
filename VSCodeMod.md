@@ -1,6 +1,4 @@
-<details>
-<summary>好用的小工具類</summary>
-
+## 好用的小工具類
 - 繁體中文翻譯:
   - [`Chinese (Traditional) Language Pack for Visual Studio Code`](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hant)
 - 快速擷取Code圖片:
@@ -31,80 +29,42 @@
   - [`indent-rainbow`](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - 前端標籤同步修改:
   - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-</details>
-
-<details>
-<summary>主要類</summary>
-  <details>
-  <summary>Python</summary>
-    <details>
-    <summary>主要</summary>
-
-- [`Pylance`](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
-- [`Python`](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [`Python Debugger`](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
-- [`Python Environments`](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs)
-- [`Python Extended`](https://marketplace.visualstudio.com/items?itemName=tushortz.python-extended-snippets)
-    </details>
-
-    <details>
-    <summary>工具</summary>
-
-- Python 自動縮排工具:
-  - [`Python Indent`](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
-- Python 字串生產器:
-  - [`autoDocstring - Python Docstring Generator`](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
-    </details>
-  </details>
-
-    <details>
-  <summary>HTML</summary>
-    <details>
-    <summary>主要</summary>
 
 
-    </details>
-    
-    <details>
-    <summary>工具</summary>
+## 主要類
+- Python
+  - 主要
+    - [`Pylance`](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+    - [`Python`](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+    - [`Python Debugger`](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
+    - [`Python Environments`](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs)
+    - [`Python Extended`](https://marketplace.visualstudio.com/items?itemName=tushortz.python-extended-snippets)
 
-- 響應式網頁開發及時同步多平台畫面:
-  - [Responsive Viewer](https://marketplace.visualstudio.com/items?itemName=parthmanhas.responsive-viewer)
-    </details>
-  </details>
+  - 工具
+    - Python 自動縮排工具:
+      - [`Python Indent`](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)
+    - Python 字串生產器:
+      - [`autoDocstring - Python Docstring Generator`](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
-  <details>
-  <summary>CSS</summary>
-    <details>
-    <summary>主要</summary>
+- HTML
+  - 主要
 
+  - 工具
+    - 響應式網頁開發及時同步多平台畫面:
+      - [Responsive Viewer](https://marketplace.visualstudio.com/items?itemName=parthmanhas.responsive-viewer)
 
-    </details>
-    
-    <details>
-    <summary>工具</summary>
+- CSS
+  - 主要
 
-- CSS必備工具箱:
-  - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- CSS跳轉HTML工具:
-  - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
-- 開啟本地同步頁面伺服器工具:
-  - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-    </details>
-  </details>
+  - 工具
+    - CSS必備工具箱:
+      - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+    - CSS跳轉HTML工具:
+      - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+    - 開啟本地同步頁面伺服器工具:
+      - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-  <details>
-  <summary>C#</summary>
-    <details>
-    <summary>主要</summary>
+- C#
+  - 主要
 
-
-    </details>
-    
-    <details>
-    <summary>工具</summary>
-
-      
-    </details>
-  </details>
-</details>
+  - 工具
