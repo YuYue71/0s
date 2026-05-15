@@ -16,3 +16,4 @@
 - [龐大的知識庫](https://quickref.me/)
 - [全能維修教學小工具](https://zh.ifixit.com/)
 - [網頁參考](https://www.awwwards.com/websites/nominees/)
+- [像素濾鏡工具](https://pixel.jingshing.com/traditional_chinese)
