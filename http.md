@@ -17,3 +17,4 @@
 - [全能維修教學小工具](https://zh.ifixit.com/)
 - [網頁參考](https://www.awwwards.com/websites/nominees/)
 - [像素濾鏡工具](https://pixel.jingshing.com/traditional_chinese)
+- [很多很讚的生圖模型](https://civitai.com/)
