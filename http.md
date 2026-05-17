@@ -18,3 +18,4 @@
 - [網頁參考](https://www.awwwards.com/websites/nominees/)
 - [像素濾鏡工具](https://pixel.jingshing.com/traditional_chinese)
 - [很多很讚的生圖模型](https://civitai.com/)
+- [強大的搜索引擎??](https://use.ai/zh?model=gpt-5&utm_match_type=e&utm_funnel=&partner=WM&id=Z29vZ2xlfGNwY3xBSV9XV19FTi1UMV9DaGF0X01PQl9TRUFfTExNX1BlcnBsZXhpdHl8MjM4MzI0OTg5MzB8cGVycGxleGl0eXw4MDg1NDE0NDUzMjl8fDE5OTEyNjUyNzcyOXxBSV9XV19FTi1UMV9QZXJwbGV4aXR5X0V4YWN0fDgwODU0MTQ0NTMyOXx8fHx8fENqMEtDUWp3enFYUUJoRDJBUklzQUtySWVVLVVvbng1MDczYjhEOVkzUWhLeXluV2NUUm1qSGhQbTgtZjBBMDcxXzZkQXNTV0VjVkQybEVhQWhYM0VBTHdfd2NCfHx8&url=https%3A%2F%2Fuse.ai%3Fmodel%3Dgpt-5&gad_source=1&gad_campaignid=23832498930&gbraid=0AAAAACQlLoaYqsBJe2APQvEtN5ZA1pzxK)
