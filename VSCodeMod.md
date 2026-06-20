@@ -29,6 +29,10 @@
   - [`indent-rainbow`](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - 前端標籤同步修改:
   - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- minecraft 資料包結構圖標顯示:
+  - [Datapack Icons](https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons)
+- minecraft 資料包開發關鍵詞提示:
+  - [Datapack Helper Plus by Spyglass](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
 
 
 ## 主要類
