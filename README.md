@@ -81,6 +81,8 @@
   - `2026/05/28`
     - [強大的SystemPrompt](https://github.com/YuYue71/PWG-Governance)
     - [強大的AI協作工作流任務清單範本](https://github.com/YuYue71/ai-task-brief)
+  - `2026/06/24`
+    - [清除緩存的腳本](https://github.com/YuYue71/0s/blob/main/tool/clear_folders.bat)
 
 ---
 
